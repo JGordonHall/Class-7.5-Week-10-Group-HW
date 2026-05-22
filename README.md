@@ -1,4 +1,5 @@
-````markdown
+```markdown
+Class 7.5 Week 10 Group HW
 # Anti-Drunk Engineer VM Recovery Assignment
 
 ## Overview
@@ -18,7 +19,7 @@ Run the following command to create the broken VM environment:
 
 ```bash
 curl -s https://storage.googleapis.com/static-site-bucket-522479235074/broken-env-with-prechecks-v2.sh | bash
-````
+```
 
 You will need:
 
