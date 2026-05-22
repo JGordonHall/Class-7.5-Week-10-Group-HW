@@ -1,6 +1,6 @@
-## Class 7.5 Week 10 Group HW
+# Class 7.5 Week 10 Group HW
 
-# Anti-Drunk Engineer VM Recovery Assignment
+## Anti-Drunk Engineer VM Recovery Assignment
 
 ## Overview
 
